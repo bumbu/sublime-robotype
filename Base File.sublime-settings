@@ -5,9 +5,6 @@
 	// Slowest possible keystroke speed, in milliseconds
 	"robotype_keystroke_interval_high": 80,
 
-	// A higher value results in more accurate typing
-	"robotype_keystroke_accuracy": 30,
-
 	// A lower value makes the robot react to typos faster
 	"robotype_typo_reaction": 4
 }
